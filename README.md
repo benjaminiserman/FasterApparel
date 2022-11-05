@@ -12,7 +12,7 @@ Faster Apparel is an XML mod, so it should be compatible with everything, includ
 
 ## Installation
 
- - Go to the Steam Workshop page here: https://ludeon.com/forums/index.php?topic=49026.msg460737#msg460737
+ - Go to the [Steam Workshop page](https://ludeon.com/forums/index.php?topic=49026.msg460737#msg460737)
  - Subscribe to the mod
  - Enable the mod in Rimworld
 
